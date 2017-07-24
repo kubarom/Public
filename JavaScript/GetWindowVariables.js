@@ -12,5 +12,3 @@ iframe.onload = function () {
 };
 iframe.src = 'about:blank';
 document.body.appendChild(iframe);
-
-return windowCustomized;
